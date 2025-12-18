@@ -12,13 +12,11 @@ las buenas prácticas y la mejora continua.
 </i>
 </p>
 
-<img src="./gatoprog.jpg" width="45%" align="right" />
-
----
+<table width="100%">
+<tr>
+<td width="55%">
 
 ## ⚡🙋‍♂ Sobre Mi
-
-</br>
 
 - 🔧 Java Backend Developer especializado en APIs REST  
 - 🔐 Experiencia con Spring Security (JWT, autenticación y autorización)  
@@ -27,9 +25,16 @@ las buenas prácticas y la mejora continua.
 - 🧱 Enfoque en arquitectura, mantenibilidad y buenas prácticas  
 - 📫 Contacto: *angeldvjr79@gmail.com*
 
-<hr>
+</td>
+<td width="45%" align="center">
 
-</br>
+<img src="./gatoprog.jpg" width="100%" />
+
+</td>
+</tr>
+</table>
+
+
 
 <table width="100%">
 <tr>
